@@ -9,3 +9,4 @@ jsDelivr CDN 주소로 불러옵니다: https://cdn.jsdelivr.net/gh/<계정>/den
 - denavei_atelier_poster.webp — 위 영상의 포스터(첫 프레임)
 
 파일을 바꿀 때는 같은 이름으로 덮어쓰지 말고 새 이름으로 올립니다(CDN 캐시 때문).
+- denavei_logo_wordmark.png — DENAVEI 워드마크(바늘 D, 자간 36 권장안, 투명 배경 2962×634). 견적서·계약서 PDF 상단
